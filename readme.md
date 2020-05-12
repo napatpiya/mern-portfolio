@@ -1,4 +1,4 @@
-<img src="./react.png" alt="React Logo" style="width: 20px;">
+<img src="./react.png" alt="React Logo" width="200px">
 
 # Pet Shelter Project
 
